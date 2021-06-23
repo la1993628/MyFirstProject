@@ -2,6 +2,7 @@
 
 int main()
 {
+//test merge
 	int multiply(int a, int b)
 	{
 		return a*b;
